@@ -1,0 +1,5 @@
+128
+59
+0.734375
+1.3623188405797102
+(once, 2) (but, 2) (dream, 2) (hid, 2) (warm, 2) (mountains, 2) (take, 2) (bending, 2) (had, 2) (him, 2) (true, 2) (full, 2) (his, 4) (kind, 2) (read, 2) (cooking, 2) (beside, 2) (this, 6) (you, 4) (look, 2) (down, 4) (false, 2) (wise, 2) (in, 2) (old, 2) (soft, 2) (is, 2) (crowd, 2) (paced, 2) (loved, 8) (your, 10) (at, 2) (overhead, 2) (glowing, 2) (fire, 2) (grace, 2) (when, 2) (upon, 2) (good, 2) (bars, 2) (murmur, 2) (nodding, 2) (with, 2) (amid, 2) (glad, 2) (teaching, 2) (slowly, 2) (how, 4) (will, 2) (shadows, 2) (not, 2) (trick, 2) (are, 2) (person, 2) (and, 26) (of, 12) (sleep, 2) (by, 2) (guess, 2) (notice, 2) (their, 2) (man, 2) (nice, 2) (face, 4) (assistant, 2) (grey, 2) (many, 2) (roommate, 2) (a, 6) (stars, 2) (eyes, 2) (pilgrim, 2) (or, 2) (sadly, 2) (hearted, 2) (fled, 2) (wrote, 2) (one, 2) (book, 2) (i, 2) (example, 2) (deep, 2) (changing, 2) (sorrows, 2) (the, 12) (love, 4) (moments, 2) (soul, 2) (little, 2) (derek, 2) (to, 2) (beauty, 2) (praise, 2) (he, 2)
