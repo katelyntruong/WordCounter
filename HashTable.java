@@ -1,7 +1,17 @@
 import java.util.LinkedList;
 import java.util.Iterator;
+
+/**
+ * HashTable
+ *
+ * This program helps to form the table based on words'frequency
+ *
+ * @author Nhan Truong
+ *
+ * @version March 16, 2020
+ *
+ */
 public class HashTable {
- 
   public LinkedList<HashNode>[] table;
  
  public HashTable (int size) {
