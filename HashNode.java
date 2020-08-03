@@ -1,3 +1,13 @@
+/**
+ * HashNode
+ *
+ * The Node to form HashTable
+ *
+ * @author Nhan Truong
+ *
+ * @version March 16, 2020
+ *
+ */
 public class HashNode {
  public String word;
  public int frequency;
