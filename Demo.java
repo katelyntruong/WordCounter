@@ -5,6 +5,16 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.File; 
  
+/**
+ * Demo main method
+ *
+ * This program reads input file and prints out words'occurrences and other properties in output file
+ *
+ * @author Nhan Truong
+ *
+ * @version March 16, 2020
+ *
+ */
 public class Demo {
  public static HashTable table = new HashTable(16);
     public static void main(String[] args) {
